@@ -1,0 +1,41 @@
+body {
+  margin: 30px auto;
+  max-width: 1024px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.contact-info {
+  margin-bottom: 145px;
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+  float: left;
+  padding-right: 30px;
+}
+
+.description {
+  clear: both;
+}
+
+h3 {
+  border-bottom: 2px solid grey;
+}
+
+.date {
+  margin-bottom: 0;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.position, .project-link {
+  margin-top: 0;
+}
+
+.project {
+  margin-bottom: 0;
+}
