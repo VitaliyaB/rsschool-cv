@@ -46,3 +46,6 @@ Jira, Figma, VS Code, WebStorm
 **May 2017 - Aug 2017** - Educational Center of High-Tech Park Belarus (Minsk, Belarus) - Front-end Developers: website development using HTML, CSS and JavaScript
 
 **2008 – 2012** - Belarusian State University, State Institute of Management and Social Technologies, (Minsk, Belarus) - Higher Diploma in Economics and Management
+
+## Languages
+**English** - intermediate
